@@ -1,3 +1,5 @@
+# NAME: T.KAVINAJAI
+# REGISTER NO:212223100020
 # Experiment 5: Zero-Knowledge Proof (ZK) Private Voting System
 # Aim:
 To implement a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs). This ensures that votes are counted fairly without revealing who voted for whom.
@@ -67,6 +69,8 @@ Final result is publicly verifiable without exposing individual votes.
 
 
 
+
+
 # High-Level Overview:
 Uses ZKPs to ensure anonymous and fair elections.
 
@@ -75,5 +79,12 @@ Prevents vote tampering while maintaining voter privacy.
 
 
 Mimics real-world ZK voting applications in governance and DAOs.
+
+# OUTPUT:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9ab8a00d-784d-40c6-afb7-a110ecfd5d10" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/603d659a-c2c5-4dcc-a815-b7156887e483" />
+<img width="1452" height="575" alt="image" src="https://github.com/user-attachments/assets/da1eb2c4-392f-4a9c-823f-cd738869a836" />
+<img width="1482" height="605" alt="image" src="https://github.com/user-attachments/assets/38007b1d-83dc-4b24-9452-15648bc1b14e" />
+
 
 # RESULT: 
