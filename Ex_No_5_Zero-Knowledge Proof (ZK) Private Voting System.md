@@ -88,3 +88,4 @@ Mimics real-world ZK voting applications in governance and DAOs.
 
 
 # RESULT: 
+THUS THE VOTING SYSTEM HAS BEEN IMPLEMENTED USING BLOCKCHAIN SUCCESSFULLY
