@@ -1,6 +1,6 @@
+# Experiment 5: Zero-Knowledge Proof (ZK) Private Voting System
 # NAME: T.KAVINAJAI
 # REGISTER NO:212223100020
-# Experiment 5: Zero-Knowledge Proof (ZK) Private Voting System
 # Aim:
 To implement a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs). This ensures that votes are counted fairly without revealing who voted for whom.
 
